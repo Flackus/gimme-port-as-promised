@@ -1,0 +1,30 @@
+{
+  "name": "gimme-port-as-promised",
+  "version": "0.0.0",
+  "description": "gimme-port promise wrapper",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Flackus/gimme-port-as-promised.git"
+  },
+  "keywords": [
+    "find",
+    "unused",
+    "port",
+    "promise",
+    "vow"
+  ],
+  "author": "Alexey Rybakov <alexrybakov@yandex.ru> (https://github.com/flackus)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Flackus/gimme-port-as-promised/issues"
+  },
+  "homepage": "https://github.com/Flackus/gimme-port-as-promised/#readme",
+  "dependencies": {
+    "gimme-port": "^1.0.2",
+    "vow": "^0.4.12"
+  }
+}
