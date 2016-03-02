@@ -1,6 +1,6 @@
 {
   "name": "gimme-port-as-promised",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "gimme-port promise wrapper",
   "main": "lib/index.js",
   "scripts": {
