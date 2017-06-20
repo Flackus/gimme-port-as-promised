@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/Flackus/gimme-port-as-promised/#readme",
   "dependencies": {
-    "gimme-port": "^1.0.2",
+    "gimme-port": "^1.0.3",
     "vow": "^0.4.12"
   }
 }
